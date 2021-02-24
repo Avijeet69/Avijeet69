@@ -1,5 +1,5 @@
 # Hey, I am Avijeet Singh
-### For a Quick Introduction; I am a Student, a Beginner Developer, and a **Weeb**
+### For a Quick Introduction; I am a _Student_, a _Beginner Developer_, and a _Weeb_
 
 Languages and DevTools:
 
